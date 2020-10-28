@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="assets/css/Footer-Dark.css">
     
 </head>
-<body>
+<body style="background: url(assets/img/Ciudad%20vector%202.png) fixed center bottom no-repeat ;  background-color: gray ; width: 100%; height: 400px;">
     <nav class="navbar navbar-light navbar-expand-lg" style="background-color: #2d2d2d">
         <a class="navbar-brand" style="text-shadow:2px 2px #025fa6; color: #ffffff" href="index.html">Tryffer</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"       aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
