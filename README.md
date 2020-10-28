@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html style="text-align: right;">
 
 <head>
