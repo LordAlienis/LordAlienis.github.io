@@ -17,18 +17,7 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"       aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav ml-auto">
-                    </ul>
-                </div>
-<!--Container Tryffer logo-->
-    <div class="container w-50 p-3">
-        <div class="row">
-            <div class="col-xl-9 mx-auto " class="w-25 p-3" >
-                <object data="Tryffer-logo.svg" type="image/svg+xml"></object>
-            </div>
-        </div>
-    </div>
+<font class="text-center" style="text-shadow:2px 2px 5px #025fa6; color: #ffffff" size="15px">Página en construcción 🧡</font>
 <!--Container Tryffer Description-->
 <div class="container">
     <div class="row">
