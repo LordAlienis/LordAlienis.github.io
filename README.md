@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="assets/css/Footer-Dark.css">
     
 </head>
-<body style="background: url(assets/img/Ciudad%20vector%202.png) fixed center bottom no-repeat ;  background-color: gray ; width: 100%; height: 400px;">
+<body style="background-color: gray ; width: 100%; height: 400px;">
     <nav class="navbar navbar-light navbar-expand-lg" style="background-color: #2d2d2d">
 <font class="text-center" style="text-shadow:2px 2px 5px #025fa6; color: #ffffff" size="15px">Página en construcción 🧡</font>
 
@@ -21,8 +21,6 @@
 </script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous">
 </script>
-
-    <script src="index.js"></script>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/bs-init.js"></script>
