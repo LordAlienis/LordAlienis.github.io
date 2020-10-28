@@ -13,19 +13,8 @@
 </head>
 <body style="background: url(assets/img/Ciudad%20vector%202.png) fixed center bottom no-repeat ;  background-color: gray ; width: 100%; height: 400px;">
     <nav class="navbar navbar-light navbar-expand-lg" style="background-color: #2d2d2d">
-        <a class="navbar-brand" style="text-shadow:2px 2px #025fa6; color: #ffffff" href="index.html">Tryffer</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"       aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-            </button>
 <font class="text-center" style="text-shadow:2px 2px 5px #025fa6; color: #ffffff" size="15px">Página en construcción 🧡</font>
-<!--Container Tryffer Description-->
-<div class="container">
-    <div class="row">
-        <div class="col-xl-9 mx-auto " class="w-25 p-3" >
-            <font class="text-center" style="text-shadow:2px 2px 5px #025fa6; color: #ffffff" size="15px">Página en construcción 🧡</font>
-        </div>
-    </div>
-</div>
+
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
 </script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
