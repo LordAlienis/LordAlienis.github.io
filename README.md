@@ -1,6 +1,13 @@
 <html style="text-align: right;">
 
 <head>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NV7PMST');</script>
+<!-- End Google Tag Manager -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Tryffer</title>
@@ -11,6 +18,10 @@
     
 </head>
 <body style="background-color: gray ; width: 100%; height: 400px;">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NV7PMST"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
     <nav class="navbar navbar-light navbar-expand-lg" style="background-color: #2d2d2d">
 <font class="text-center" style="text-shadow:2px 2px 5px #025fa6; color: #ffffff" size="15px">Página en construcción 🧡</font>
 
